@@ -10,6 +10,9 @@ A quick start/installation guide will be provided once a minimum viable set of f
 # Features
 A list of features and example function calls is maintained in a separate markdown file, Features.md.
 
+# Cross-language interoperability
+Part of the design intent is to maintain a subset of package-compilable features that will allow funcation calls from MATLAB/Octave, Python, C, and other Julia projects, with the InsulinGlucoseControl (IGC) package a as a dependency.
+
 # License
 This repo uses MIT content licensing.
 
